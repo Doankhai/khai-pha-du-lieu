@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>bacha_32.jpg</filename>
+	<path>D:\khaiphadulieu\images\train\bacha_32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bacha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>127</ymin>
+			<xmax>504</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

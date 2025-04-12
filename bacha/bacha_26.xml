@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>bacha_26.jpg</filename>
+	<path>D:\KhaiPhaDuLieu\validation\bacha_26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bacha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>165</ymin>
+			<xmax>474</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>
