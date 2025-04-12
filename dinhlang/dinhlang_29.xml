@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>dinhlang_29.jpg</filename>
+	<path>D:\khaiphadulieu\images\train\dinhlang_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dinhlang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>75</ymin>
+			<xmax>517</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>
