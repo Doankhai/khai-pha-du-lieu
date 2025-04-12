@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>hung_42.jpg</filename>
+	<path>D:\khaiphadulieu\images\hung_42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>199</ymin>
+			<xmax>504</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

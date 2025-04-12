@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hung_47.jpg</filename>
+	<path>D:\khaiphadulieu\images\train\hung_47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>120</ymin>
+			<xmax>495</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hanh_39.jpg</filename>
+	<path>D:\khaiphadulieu\images\train\hanh_39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hanh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>126</ymin>
+			<xmax>423</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>

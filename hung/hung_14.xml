@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anh</folder>
+	<filename>hung_14.jpg</filename>
+	<path>D:\KhaiPhaDuLieu\Anh\hung_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>63</ymin>
+			<xmax>511</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>
